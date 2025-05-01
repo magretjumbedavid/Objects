@@ -42,7 +42,7 @@ console.log({bankAccount});
 
 // pseudocode
 // create object taskList
-// array of task name
+// create task name
 // add task methods
 // delete task method
 // print remaing task meathods
@@ -70,7 +70,7 @@ console.log({taskList});
 // average is 50 or more, otherwise false. Create and test this for at least two students.
 
 // pseudocode
-// create an array object
+// create an object
 // contain name of student and scores
 // find scores average
 // if score is morethan or equal to average has passed
@@ -98,7 +98,7 @@ console.log(studentsResults(scores));
 
 // pseudocode
 // create object called shoppingcart
-// create an array of items
+// create item name and the price
 // add items to the shoppingcart
 // find total cost for all items added to the cart
 shoppingCart={
